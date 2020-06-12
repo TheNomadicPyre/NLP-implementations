@@ -1,2 +1,2 @@
 # NLP-implementations
-This is a collection of pieces of NLP programs written for Udacity's NLP Nanodegree
+This is a collection of Ipython notebooks written for Udacity's NLP Nanodegree
